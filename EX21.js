@@ -1,6 +1,6 @@
 function main()
 {
-    var counter = 0;
+    var counter = 2;
     while (counter < 100){
         console.log(counter);
         counter = counter + 2;
